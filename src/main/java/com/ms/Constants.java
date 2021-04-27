@@ -10,8 +10,8 @@ public class Constants {
 
 	// JWT
 
-	public static final String ISSUER_INFO = "http://localhost:9898/";
-	public static final String SUPER_SECRET_KEY = "1234";
+	public static final String ISSUER_INFO = "https://sprint-boot-api-postgres.herokuapp.com/";
+	public static final String SUPER_SECRET_KEY = "1rH7II0943vYK1ZgjDYEJSxEZcE9L7fB_Cx96AEBH4";
 	public static final long TOKEN_EXPIRATION_TIME = 864_000_000; // 10 day
 
 }
